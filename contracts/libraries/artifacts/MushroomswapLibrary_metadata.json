@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/periphery/contracts/libraries/MushroomswapLibrary.sol": "MushroomswapLibrary"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/periphery/contracts/libraries/MushroomswapLibrary.sol": {
+			"keccak256": "0x060ce2008ed8240f1524f05e2828f1bfda6d54531e72ecaeb87502701acac482",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a171a7a0365cf124c42bbee6571da639bfb6668bf778b723b2c46a8810c41eae",
+				"dweb:/ipfs/QmXqMxQRmgbMaFseaUk8p1J1TnyziMoCVLpt2tyFNCQeHi"
+			]
+		},
+		"https://github.com/iamOjas/Mushroomswap-core/blob/main/contracts/interfaces/IMushroomswapERC20.sol": {
+			"keccak256": "0xe9ac91b7ea30f8e8f8adbaacc1036862ae4f025e3c9fb42f1e981938fbff3d6b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1d253fcf5cf2407e545671e0b4cc5f70fe124b71287ef71a67aef0cf2beead24",
+				"dweb:/ipfs/QmWvVgLw5mQZFYh6o59nF4JoxJi14wUwKAydVHEJZF41gu"
+			]
+		},
+		"https://github.com/iamOjas/Mushroomswap-core/blob/main/contracts/interfaces/IMushroomswapPair.sol": {
+			"keccak256": "0x7798aa2b7d913f0a2151fac6ff22eeeecf822c8c87d0a9e49267250dbaa53a09",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8f80f8e50d1d78fc1dc3e85c4ca8ffe03b1d8c3262f823e72d9951b10464cd48",
+				"dweb:/ipfs/QmT138wZQxhhUTy9kSCHhN5LkHe5cdhirrMhZT1T79rkYx"
+			]
+		}
+	},
+	"version": 1
+}
